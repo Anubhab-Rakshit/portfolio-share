@@ -136,7 +136,7 @@ export default function Skills() {
                         <div key={skill.name} className="mb-4">
                           <div className="flex justify-between mb-1">
                             <span className="text-sm font-medium">{skill.name}</span>
-                            <span className="text-sm text-muted-foreground">{skill.level}%</span>
+                       
                           </div>
                           <Progress value={skill.level} className="h-2" indicatorColor={skill.color} />
                         </div>
