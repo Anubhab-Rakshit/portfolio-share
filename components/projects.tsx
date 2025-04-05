@@ -19,7 +19,7 @@ const projects = [
     tags: ["Next.js", "Three.js", "Tailwind CSS", "Python", "Machine Learning"],
     github: "https://github.com/Anubhab-Rakshit/ai-ne-bola",
     demo: "https://ai-ne-bola.netlify.app/",
-    slug: "AI-NE-BOLA",
+    slug: "ai-ne-bola",
     featured: true,
   },
   {
@@ -31,7 +31,7 @@ const projects = [
     tags: ["React", "Next.js", "Tailwind CSS", "Mongo DB", "Google Maps API", "Gemini API", "Node.js"],
     github: "https://github.com/Kausheya2006/vlab_frontend",
     demo: "https://ai-ne-bola.netlify.app/",
-    slug: "VLABS",
+    slug: "vlabs",
     featured: true,
   },
   {
@@ -55,7 +55,7 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB", "Chart.js", "Multer"],
     github: "https://github.com/Anubhab-Rakshit/syntaxerror-hacknovare",
     demo: "https://civilizedchaos.netlify.app/",
-    slug: "CIVILIZED CHAOS",
+    slug: "civilized-chaos",
     featured: true,
   },
   {
@@ -64,7 +64,7 @@ const projects = [
     image: "/Images/hbdwisher.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demo: "https://hbdwisher.netlify.app/",
-    slug: "HBD WISHER",
+    slug: "hbdwisher",
     featured: false,
   },
   {
@@ -74,7 +74,7 @@ const projects = [
     image: "/Images/tune-in.png",
     tags: ["React", "Tailwind CSS", "Google Cloud Vision API", "Spotify API", "Node.js", "TensorFlow.js"],
     demo: "https://tune-in-u255.vercel.app/",
-    slug: "TUNE-IN",
+    slug: "tune-in",
     featured: false,
   },
   {
@@ -83,7 +83,7 @@ const projects = [
     image: "/Images/tictactoe.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demo: "https://playytictactoe.netlify.app/",
-    slug: "Tictactoe",
+    slug: "tictactoe",
     featured: false,
   },
   {
@@ -92,7 +92,7 @@ const projects = [
     image: "/Images/electronicconfig.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demo: "https://electronic-config.netlify.app/",
-    slug: "ELECTRONIC",
+    slug: "electronicconfig",
     featured: false,
   },
   {
@@ -101,7 +101,7 @@ const projects = [
     image: "/Images/ggcc.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demo: "https://ggcconstruction.netlify.app/",
-    slug: "GGCC",
+    slug: "ggcc",
     featured: false,
   },
 ]
