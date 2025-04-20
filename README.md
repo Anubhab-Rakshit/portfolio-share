@@ -110,30 +110,29 @@ A modern, interactive portfolio website built with Next.js 14, Three.js, and Rea
 ### Installation
 
 1. Clone the repository
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
-\`\`\`
+```
 
 2. Install dependencies
-\`\`\`bash
+```bash
 npm install
 # or
 yarn install
-\`\`\`
+```
 
 3. Run the development server
-\`\`\`bash
+```bash
 npm run dev
 # or
 yarn dev
-\`\`\`
+```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 📁 Project Structure
-
-\`\`\`
+```
 portfolio/
 ├── app/                  # Next.js app router pages
 │   ├── blog/             # Blog pages
@@ -153,7 +152,7 @@ portfolio/
 │   ├── sounds/           # Audio files
 │   └── fonts/            # Font files
 └── styles/               # CSS styles
-\`\`\`
+```
 
 ## 🎨 Customization
 
