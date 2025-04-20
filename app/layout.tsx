@@ -23,7 +23,10 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Anubhab Rakshit | Portfolio",
   description: "Personal portfolio of Anubhab Rakshit, a Computer Science student at Jadavpur University",
-    generator: 'v0.dev'
+  generator: 'Anubhab Rakshit',
+  icons: {
+    icon: "/Images/Anubhab Rakshit Profile Pic.jpg",
+  },
 }
 
 export default function RootLayout({
