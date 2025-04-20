@@ -1,4 +1,3 @@
-# anubhab-rakshit-portfolio
 
 # Modern 3D Portfolio Website
 
