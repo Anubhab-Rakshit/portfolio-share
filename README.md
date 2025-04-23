@@ -1,6 +1,11 @@
 
 # Modern 3D Portfolio Website
 
+## Team Name
+### Code Cuisine
+
+## Members
+### Anubhab Rakshit
 <img width="1492" alt="Screenshot 2025-04-20 at 11 01 27 PM" src="https://github.com/user-attachments/assets/90c6a0de-1498-4680-8412-346a4c54d5a7" />
 
 
