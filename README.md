@@ -1,7 +1,7 @@
 
 # Modern 3D Portfolio Website
 
-## Team Name
+## Team Name (Individual)
 ### Code Cuisine
 
 ## Members
